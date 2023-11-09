@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  owner_name: MyString
+  address: MyString
+  balance: 9.99
+  phone_number: 1
+  amount_paid: MyString
+
+two:
+  owner_name: MyString
+  address: MyString
+  balance: 9.99
+  phone_number: 1
+  amount_paid: MyString
